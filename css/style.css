@@ -1,0 +1,366 @@
+body {
+	/*background-image: url(../img/jw4.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;*/
+}
+
+header{
+	background-color: white;
+	position: absolute;
+	position: fixed;
+	width: 100%;
+}
+
+.balm ul {
+	padding-top: 20px;
+	list-style: none;
+	float: right;
+}
+
+.balm ul li {
+	float: left;
+	list-style: none;
+}
+
+.balm ul li a{
+	padding-left: 50px;
+	color: #000;
+	text-decoration: none;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-size: 20px;
+/*	font-weight: bold;
+*/}
+
+.balm ul li a:hover {
+	text-decoration: underline;
+}
+
+.balm img {
+	width: 200px;
+	height: 130px;
+	text-align: center;
+}
+
+.head {
+	width: 1200px;
+	background-color: #fff;
+/*	margin: 0 auto;
+*/}
+
+.head img {
+	width: 1500px;
+	height: 800px;
+}
+
+.joy .maina hr {
+	border: none;
+	padding: 2px;
+	width: 400px;
+	margin: 0 auto;
+	color: black;
+	background-color: black;
+}
+
+.joy h1 {
+	padding-top: 100px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	text-align: center;
+}
+
+.joy p {
+	font-size: 20px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 80px;
+}
+
+
+/*.head {
+	height: 50px;
+	width: 1500px;
+	text-align: center;
+	background-color: black;
+}
+*/
+/*
+
+.head h1 {
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+.head p {
+	text-align: center;
+	padding-top: 100px;
+}*/
+
+.tab {
+	background-color: #fff;
+	padding-top: 60px;
+	overflow: auto;
+	padding-bottom: 20px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-weight: bold;
+	/*width: 100%;
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 60px;
+	overflow: auto;*/
+}
+
+.tab .cakes .joy{
+	width: 400px;
+	height: 350px;
+}
+
+.tab .cake1 {
+	padding-right: 40px;
+	padding-left: 100px;
+}
+
+.tab .cake1 a {
+	text-decoration: none;
+	color: black;
+}
+
+.tab.cake1 a:hover {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.tab .cake2 {
+	padding-right: 40px;
+}
+
+.tab .cake2 a {
+	text-decoration: none;
+	color: black;
+}
+
+.tab .cake2 a:hover {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.tab .cakes {
+	float: left;
+/*	width: 450px;
+*/}
+
+.tab .cakes a {
+	text-decoration: none;
+	color: black;
+}
+
+.tab .cakes a:hover {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.content {
+	width: 1000px;
+	padding: 50px;
+	margin: 0 auto;
+	background-color: white;
+}
+
+.content img {
+	padding-left: 150px;
+}
+
+.content .hill {
+	padding-left: 250px;
+}
+
+.container {
+	overflow: auto;
+	width: 1000px;
+	padding: 50px;
+	margin: 0 auto;
+	background-color: white;
+}
+
+.container img {
+	padding-left: 250px;
+}
+
+.container .cover {
+	width: 500px;
+	height: 500px;
+} 
+
+.container a {
+	padding-top: 10px;
+	text-decoration: underline;
+	color: black;
+}
+
+.container a:hover {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.foot .twitter i, .foot .pinterest i, .foot .instagram i, .foot .linkedin i{
+	color: white;
+	background-color: black;
+	padding: 20px;
+	border-radius: 50px;
+	margin: 50px 20px 50px 0;
+	/*width: 1500px;
+	background-color: rgba(0,0,0,0.5);
+	color: black;
+	padding-top: 50px;*/
+}
+
+footer {
+	width: 100%;
+	text-align: center;
+	padding-top: 20px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-weight: bold;
+}
+
+footer img {
+	padding: 10px;
+	width: 50px;
+	height: 50px;
+}
+
+footer a {
+	text-decoration: underline;
+	color: black;
+}
+
+footer a:hover {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*header {
+	height:50px;
+}
+
+header img {
+	width: 100px;
+	height: 50px;
+}
+
+header h1 {
+	text-align: center;
+	padding: 50px;
+}
+
+header p {
+	text-align: center;
+	font-weight: bold;
+}*/
+
+/*.balm {
+	width: 1200px;
+	background-color: white;
+
+}*/
+
+/*.main {
+	width: 1200px;
+	background-color: rgba(0,0,0,0.01);
+	text-align: center;
+	margin: 0 auto;
+}
+
+.main img {
+	height: 500px;
+	width: 1200px;
+}
+*/
+/*.tab {
+	width: 1200px;
+	background-color: rgba(0,0,0,0.01);
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.tab a {
+	text-decoration: none;
+	color: black;
+	padding-left: 20px;
+}
+
+.tab a:hover {
+	font-weight: bold;
+	text-decoration: underline;
+
+}
+
+.tab img {
+	width: 377px;
+	height: 250px;
+}
+
+.content {
+	width: 500px;
+	padding: 50px;
+	margin: 0 auto;
+}
+  
+.content img {
+	text-align: center;
+}
+
+.container {
+	width: 500px;
+	padding: 50px;
+	margin: 0 auto;
+}
+
+.container img {
+	height: 500px;
+	width: 500px;
+}
+
+footer {
+	text-align: center;
+	padding-top: 50px;
+}
+
+footer a {
+	text-decoration: underline;
+	color: black;
+}
+
+footer a:hover {
+	font-weight: bold;
+	text-decoration: underline;
+}*/
